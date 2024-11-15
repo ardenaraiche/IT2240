@@ -1,0 +1,25 @@
+/* Ardena Raiche - IT2240 - U01a1 - Part 1
+ * 11/15/2024 Rev. 1
+*/
+#include <stdio.h>  
+
+int main(void) {
+    int firstNumber = 10;
+    double secondNumber = 15.25;
+
+    printf("\nWelcome to IT2240 - \"Introduction to Programming\"\n");
+    printf("This is a sample C program. ");
+    printf("The two variables are integers:\n");
+    printf("\tfirstNumber = %d\n", firstNumber);
+    printf("\tsecondNumber = %f\n", secondNumber);
+    double sum = firstNumber + secondNumber;
+    printf("The sum of firstNumber + secondNumber is %.2f.\n", sum);
+    printf("The average of the numbers is %.3f.\n\n", sum / 2);
+     
+    int myNumber;
+    printf("Enter an integer: ");
+    scanf("%d", &myNumber);
+    printf("You entered %d.\n", myNumber);
+	  
+    return 0; 
+}
