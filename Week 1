@@ -1,6 +1,7 @@
 /* Ardena Raiche - IT2240 - U01a1 - Part 1
  * 11/15/2024 Rev. 1
 */
+
 #include <stdio.h>  
 
 int main(void) {
