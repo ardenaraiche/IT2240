@@ -91,7 +91,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/araiche/OneDrive/Documents/IT2240",
-      "program": "c:/Users/araiche/OneDrive/Documents/IT2240/build/Debug/outDebug",
+      "program": "search-ms:displayname=Search%20Results%20in%20extensions&crumb=location:C%3A%5CUsers%5Caraiche%5C.vscode%5Cextensions\devsense.composer-php-vscode-1.53.16338",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
